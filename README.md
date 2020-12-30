@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data Science and Flutter
 - 👯 I’m looking to collaborate on Data Science and Flutter projects
 - 📫 How to reach me:
-  - :office: [LinkedIn] (https://www.linkedin.com/in/wsabsi/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/wsabsi/)
 
 ### Stats
 
