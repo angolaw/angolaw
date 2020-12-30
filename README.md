@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <!-- TODO-IST:START -->
 🏆  100 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 1 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 2 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
