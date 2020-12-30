@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On:**
 
-<img src="https://github.com/analogicallergy/analogicallergy/blob/master/codeStats.svg" alt="My Coding Activity/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### My TOP Projects
 
@@ -40,8 +41,10 @@ Here are some ideas to get you started:
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 2 tasks so far           
-⏳  Longest streak is 0 days
+
+🏆 100 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 2 tasks so far  
+⏳ Longest streak is 0 days
+
 <!-- TODO-IST:END -->
