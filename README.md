@@ -36,3 +36,8 @@ Here are some ideas to get you started:
 | --------------- | --------------------------------------- | ---------------- | -------------------------------------------------------------- |
 | Rossmann        | Sales Prediction based on historic data | Python           | [rossmann](https://github.com/AnalogicAllergy/data_science)    |
 | Movies Riverpod | 🍕 Movie App.                           | Flutter/Riverpod | [riverpod](https://github.com/AnalogicAllergy/movies_riverpod) |
+
+### Todoist Stats
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
