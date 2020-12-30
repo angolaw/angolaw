@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analogicallergy)](https://github.com/analogicallergy/github-readme-stats)
 
 📊 **This Week I Spent My Time On:**
+
 <img src="https://github.com/analogicallergy/analogicallergy/blob/master/codeStats.svg" alt="My Coding Activity/>
 
 ### My TOP Projects
