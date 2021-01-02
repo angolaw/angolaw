@@ -113,7 +113,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  317 Karma Points           
+🏆  417 Karma Points           
 🌸  Completed 4 tasks today           
 ✅  Completed 7 tasks so far           
 ⏳  Longest streak is 1 days
