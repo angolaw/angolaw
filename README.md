@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 11 Contributions in the Year 2021
+> 🏆 14 Contributions in the Year 2021
  > 
 > 📦 576.1 kB Used in Github's Storage 
  > 
