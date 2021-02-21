@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Brazil based developer in a amazing journey to become a Mobile Developer in 2021. I mainly code in Dart, but also know my way around Javascript (Node.js, React and React Native) and kotlin (for my Native Android based projects). I'm currently working on data science solution that aims to predict store sales in 6 weeks in advance.
+I'm a Brazil based developer in a amazing journey to become a Mobile Developer in 2021. I mainly code in Dart, but also know my way around Javascript (Node.js, React and React Native) and Kotlin (for my Native Android based projects). I'm currently working on data science solution that aims to predict store sales in 6 weeks in advance.
 
 ```javascript
 const analogicallergy = {
