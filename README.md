@@ -5,7 +5,7 @@ I'm a Brazil based developer in a amazing journey to become a Mobile Developer i
 ```javascript
 const analogicallergy = {
   code: [Dart, Kotlin, Javascript],
-  focus: [ Mobile Development,Android, Flutter],
+  focus: [ Mobile Development, Android, Flutter],
   challenge: "Become a Mobile Developer in 2021"
 }
 ```
