@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Brazil based developer in a amazing journey to become a Mobile Developer in 2021. I mainly code in Dart, but also know my way around Javascript (Node.js, React and React Native) and Kotlin (for my Native Android based projects). I'm currently working on data science solution that aims to predict store sales in 6 weeks in advance.
+I'm a Brazil based developer in a amazing journey to become a Mobile Developer in 2021. I mainly code in Dart, but also know my way around Javascript (Node.js, React and React Native) and Kotlin (for my Native Android based projects). I'm currently studying Clean Architecture and Flutter, but i'm also interested in Fullstack development.
 
 ```javascript
 const analogicallergy = {
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ### Stats
 
-[![Willian S. Angola github stats](https://github-readme-stats.vercel.app/api?username=analogicallergy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Willian S. Angola github stats](https://github-readme-stats.vercel.app/api?username=w0ken0ne&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=analogicallergy)](https://github.com/analogicallergy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w0ken0ne)](https://github.com/w0ken0ne/github-readme-stats)
 
 📊 **This Week I Spent My Time On:**
 
@@ -99,10 +99,6 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/AnalogicAllergy/AnalogicAllergy/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
@@ -110,8 +106,8 @@ TypeScript               2 repos             ░░░░░░░░░░░�
 
 | Name            | Description                         | Language         | Repo                                                           |
 | --------------- | ----------------------------------- | ---------------- | -------------------------------------------------------------- |
-| BloCbuster      | Movie app using BloC                | Dart /Flutter    | [blocbuster](https://github.com/AnalogicAllergy/blocbuster)    |
-| Movies Riverpod | App using Riverpod state management | Flutter/Riverpod | [riverpod](https://github.com/AnalogicAllergy/movies_riverpod) |
+| BloCbuster      | Movie app using BloC                | Dart /Flutter    | [blocbuster](https://github.com/w0ken0ne/blocbuster)    |
+| Movies Riverpod | App using Riverpod state management | Flutter/Riverpod | [riverpod](https://github.com/w0ken0ne/movies_riverpod) |
 
 ### Todoist Stats
 
