@@ -101,10 +101,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
