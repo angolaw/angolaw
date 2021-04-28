@@ -12,11 +12,11 @@ const analogicallergy = {
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently learning architectural patterns such as Clean Architecture
-- 🌱 I’m currently learning Native Android development and Flutter
-- 👯 I’m looking to collaborate on Android and Flutter projects
-- 📫 How to reach me:
-  - :office: [LinkedIn](https://www.linkedin.com/in/wsabsi/)
+- 🔭  I’m currently learning architectural patterns such as Clean Architecture
+- 🌱  I’m currently learning Native Android development and Flutter
+- 👯  I’m looking to collaborate on Android and Flutter projects
+- 📫  How to reach me:
+  -  :office: [LinkedIn](https://www.linkedin.com/in/wsabsi/)
 
 ### Stats
 
@@ -33,17 +33,17 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
-**🐱 My Github Data** 
+**🐱  My Github Data** 
 
-> 🏆 476 Contributions in the Year 2021
+> 🏆  476 Contributions in the Year 2021
  > 
-> 📦 665.0 kB Used in Github's Storage 
+> 📦  665.0 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 💼  Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜  38 Public Repositories 
  > 
-> 🔑 5 Private Repositories  
+> 🔑  5 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
