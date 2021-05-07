@@ -115,8 +115,8 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  3,447 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 140 tasks so far           
+🏆  3,485 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 141 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
