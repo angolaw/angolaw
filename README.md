@@ -77,7 +77,7 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -101,7 +101,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/07/2021
+ Last Updated on 06/07/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
