@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,006 Contributions in the Year 2021
  > 
-> 📦 678.6 kB Used in Github's Storage 
+> 📦 678.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,13 +74,14 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 7 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gofinances               2 hrs 6 mins        █████████████████░░░░░░░░   67.51% 
+myskills                 1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.49%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +102,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/07/2021
+ Last Updated on 20/07/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
