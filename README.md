@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 1,006 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2021
  > 
 > 📦 679.0 kB Used in Github's Storage 
  > 
@@ -102,7 +102,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/07/2021
+ Last Updated on 23/07/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
