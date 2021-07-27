@@ -74,14 +74,13 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-gofinances               2 hrs 6 mins        █████████████████░░░░░░░░   67.51% 
-myskills                 1 hr 1 min          ████████░░░░░░░░░░░░░░░░░   32.49%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 7 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -102,7 +101,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/07/2021
+ Last Updated on 27/07/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
