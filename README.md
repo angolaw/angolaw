@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 > 🏆 1,006 Contributions in the Year 2021
  > 
-> 📦 681.0 kB Used in Github's Storage 
+> 📦 681.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -101,7 +101,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/08/2021
+ Last Updated on 13/08/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
