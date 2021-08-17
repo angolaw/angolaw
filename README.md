@@ -35,13 +35,13 @@ Here are some ideas to get you started:
 
 **🐱 My Github Data** 
 
-> 🏆 1,006 Contributions in the Year 2021
+> 🏆 1,007 Contributions in the Year 2021
  > 
 > 📦 681.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 6 Private Repositories  
  > 
@@ -74,24 +74,25 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+imc                      2 hrs 48 mins       █████████████████████░░░░   87.19% 
+plantmanager             24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     35 repos            ██████████████░░░░░░░░░░░   59.32% 
-TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
-Makefile                 2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39% 
-Python                   2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.39%
+Dart                     35 repos            ███████████████░░░░░░░░░░   60.34% 
+TypeScript               8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+Makefile                 2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.45% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72%
 
 ```
 
@@ -101,7 +102,7 @@ Python                   2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2021
+ Last Updated on 17/08/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
