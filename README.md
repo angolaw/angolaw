@@ -74,14 +74,13 @@ Sunday       57 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  3 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-crud                     3 hrs 48 mins       ████████████████████████░   98.07% 
-faker-server             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 52 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -102,7 +101,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 27/08/2021
+ Last Updated on 28/08/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
