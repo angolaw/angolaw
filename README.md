@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 1,198 Contributions in the Year 2021
  > 
-> 📦 641.6 kB Used in Github's Storage 
+> 📦 641.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,18 +74,18 @@ Sunday       57 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Android Studio           5 hrs 43 mins       ████████████████████░░░░░   81.32% 
-VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.68%
+Android Studio           6 hrs 53 mins       ████████████████████████░   96.18% 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.82%
 
 🐱‍💻 Projects: 
-blocbuster               5 hrs 50 mins       ████████████████████░░░░░   82.85% 
-countries                1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55% 
-hemocare                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71% 
+blocbuster               5 hrs 50 mins       ████████████████████░░░░░   81.38% 
+hemocare                 1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
+countries                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7% 
 flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 💻 Operating System: 
-Mac                      7 hrs 2 mins        █████████████████████████   100.0%
+Mac                      7 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -106,7 +106,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
