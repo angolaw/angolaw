@@ -74,14 +74,13 @@ Sunday       57 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-Android Studio           1 hr 47 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-starter                  1 hr 45 mins        ████████████████████████░   98.61% 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 47 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -102,7 +101,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/11/2021
+ Last Updated on 04/11/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
