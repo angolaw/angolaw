@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2013%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -76,15 +74,16 @@ Sunday       57 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  9 hrs 7 mins        █████████████████████████   99.61% 
-Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
+VS Code                  12 hrs 17 mins      █████████████████████████   99.71% 
+Android Studio           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🐱‍💻 Projects: 
-clean_movies             9 hrs 3 mins        ████████████████████████░   98.91% 
-flutter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09%
+clean_movies             12 hrs 9 mins       ████████████████████████░   98.68% 
+flutter                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.89% 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.44%
 
 💻 Operating System: 
-Mac                      9 hrs 9 mins        █████████████████████████   100.0%
+Mac                      12 hrs 19 mins      █████████████████████████   100.0%
 
 ```
 
@@ -105,7 +104,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/12/2021
+ Last Updated on 10/12/2021
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
