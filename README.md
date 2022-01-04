@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 > 🏆 12 Contributions in the Year 2022
  > 
-> 📦 652.4 kB Used in GitHub's Storage 
+> 📦 661.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,13 +74,14 @@ Sunday       57 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+citydiary                9 mins              ████████████████████████░   96.49% 
+posUnyleya-CityDiary     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.51%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +102,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
