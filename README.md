@@ -105,7 +105,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/01/2022
+ Last Updated on 09/01/2022
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
