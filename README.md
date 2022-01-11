@@ -112,7 +112,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 
 | Name            | Description                         | Language         | Repo                                                           |
 | --------------- | ----------------------------------- | ---------------- | -------------------------------------------------------------- |
-| clean_movies    | Movie app using BloC                | Dart /Flutter    | [blocbuster](https://github.com/w0ken0ne/clean_movies)    |
+| clean_movies    | Movie app using BloC                | Dart /Flutter    | [clean_movies](https://github.com/w0ken0ne/clean_movies)    |
 | Movies Riverpod | App using Riverpod state management | Flutter/Riverpod | [riverpod](https://github.com/w0ken0ne/movies_riverpod) |
 
 ### Todoist Stats
