@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 > 🏆 38 Contributions in the Year 2022
  > 
-> 📦 661.4 kB Used in GitHub's Storage 
+> 📦 659.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -104,7 +104,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2022
+ Last Updated on 14/01/2022
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
