@@ -116,8 +116,8 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  3,888 Karma Points           
-🌸  Completed 10 tasks today           
+🏆  3,936 Karma Points           
+🌸  Completed 0 tasks today           
 ✅  Completed 169 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
