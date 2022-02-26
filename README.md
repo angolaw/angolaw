@@ -74,15 +74,13 @@ Sunday       53 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-clean_movies             40 mins             ███████████████████████░░   94.65% 
-flutter                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
-fordevs                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.71%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      42 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -103,7 +101,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/02/2022 18:47:28 UTC
+ Last Updated on 26/02/2022 18:45:09 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
