@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 131 Contributions in the Year 2022
+> 🏆 133 Contributions in the Year 2022
  > 
-> 📦 661.6 kB Used in GitHub's Storage 
+> 📦 661.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -74,13 +74,14 @@ Sunday       53 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  12 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+clean_movies             9 mins              ████████████████████░░░░░   82.48% 
+healables_core           2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.52%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -101,7 +102,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 26/02/2022 18:45:09 UTC
+ Last Updated on 08/03/2022 18:45:52 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
