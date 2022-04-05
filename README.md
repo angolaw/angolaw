@@ -74,17 +74,13 @@ Sunday       53 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-healables_core           16 mins             ██████████░░░░░░░░░░░░░░░   41.24% 
-blemulator_flutter       12 mins             ████████░░░░░░░░░░░░░░░░░   32.62% 
-FlutterBleLib            9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.73% 
-healables_app            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25% 
-flutter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      38 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -105,7 +101,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/04/2022 18:50:41 UTC
+ Last Updated on 05/04/2022 18:48:55 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
