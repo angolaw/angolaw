@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 > 🏆 133 Contributions in the Year 2022
  > 
-> 📦 661.6 kB Used in GitHub's Storage 
+> 📦 661.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -103,7 +103,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/05/2022 18:49:41 UTC
+ Last Updated on 12/05/2022 18:52:18 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
