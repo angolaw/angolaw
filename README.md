@@ -33,13 +33,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 133 Contributions in the Year 2022
  > 
-> 📦 661.6 kB Used in GitHub's Storage 
+> 📦 651.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -103,7 +103,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 31/05/2022 18:53:11 UTC
+ Last Updated on 01/06/2022 18:52:15 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
