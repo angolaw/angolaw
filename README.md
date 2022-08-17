@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -103,7 +103,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:56:25 UTC
+ Last Updated on 17/08/2022 18:55:37 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
