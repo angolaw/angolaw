@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 📊 **This Week I Spent My Time On:**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C065%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -47,45 +47,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 6 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    226 commits    ████████████░░░░░░░░░░░░░   49.89% 
-🌆 Daytime    68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
-🌃 Evening    155 commits    ████████░░░░░░░░░░░░░░░░░   34.22% 
-🌙 Night      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       181 commits    ██████████░░░░░░░░░░░░░░░   39.96% 
-Tuesday      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.14% 
-Wednesday    102 commits    █████░░░░░░░░░░░░░░░░░░░░   22.52% 
-Thursday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.92% 
-Friday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.86% 
-Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.66%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -103,7 +64,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/w0ken0ne/w0ken0ne/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:53:41 UTC
+ Last Updated on 04/09/2022 18:48:06 UTC
 <!--END_SECTION:waka-->
 
 ### My TOP Projects
