@@ -3,7 +3,7 @@
 I'm a Brazil based developer in a amazing journey to become a Mobile Developer in 2021. I mainly code in Dart, but also know my way around Javascript (Node.js, React and React Native) and Kotlin (for my Native Android based projects). I'm currently studying Clean Architecture and Flutter, but i'm also interested in Fullstack development.
 
 ```javascript
-const analogicallergy = {
+const angolaw = {
   code: [Dart, Kotlin, Javascript],
   focus: [ Mobile Development, Android, Flutter],
   challenge: "Become a Mobile Developer in 2021"
